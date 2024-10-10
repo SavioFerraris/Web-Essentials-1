@@ -1,0 +1,25 @@
+body{
+    background-color: #F1F0F1;
+}
+h1{
+    background-color: #000000;
+    color: #F1F0F1;
+    font-size: 48px;
+    font-family: Arial, sans-serif;
+    text-transform: uppercase;
+    margin-bottom: 25px;
+    margin-top: 25px;
+}
+h2 {
+    color: #505050;
+    font-family: "Arial Black", "sans-serif";
+    text-transform: uppercase;
+    border-bottom:3px;
+    margin-outside:40px;
+}
+p{
+    font-family: "Arial", "sans-serif";
+}
+li{
+    font-family: "Arial", "sans-serif";
+}
