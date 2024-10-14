@@ -5,7 +5,7 @@ h1{
     background-color: #000000;
     color: #F1F0F1;
     font-size: 48px;
-    font-family: Arial, sans-serif;
+    font-family: Arial Black, sans-serif;
     text-transform: uppercase;
     margin-bottom: 25px;
     margin-top: 25px;
@@ -15,11 +15,9 @@ h2 {
     font-family: "Arial Black", "sans-serif";
     text-transform: uppercase;
     border-bottom:3px;
+    border-color: #58A518;
     margin-outside:40px;
 }
-p{
-    font-family: "Arial", "sans-serif";
-}
-li{
+p, li{
     font-family: "Arial", "sans-serif";
 }
