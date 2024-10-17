@@ -1,0 +1,27 @@
+thead, tfoot{
+    background-color: midnightblue;
+    color: white;
+    text-align: center;
+
+
+}
+tbody tr:nth-child(even){
+    background-color: lightblue;
+
+
+}
+tbody tr:nth-child(odd){
+    background-color: lightsteelblue;
+}
+tbody{
+    text-align: center;
+}
+
+table{
+    width: 20cm;
+    background-color: black;
+}
+
+
+
+
