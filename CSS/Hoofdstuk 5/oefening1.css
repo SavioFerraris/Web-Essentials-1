@@ -20,6 +20,8 @@ td{
     padding-right: 10px;
     padding-top: 8px;
     padding-bottom: 8px;
+
+    /*padding: 10px, 10px, 10px,10px;*/
 }
 img{
     display: block;
